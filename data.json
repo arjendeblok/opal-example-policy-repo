@@ -8,9 +8,9 @@
       }
     },
     "bob": {
-      "roles": ["employee"],
+      "roles": ["employee", "billing"],
       "location": {
-        "country": "US",
+        "country": "NL",
         "ip": "8.8.8.8"
       }
     },
