@@ -10,11 +10,18 @@
     "bob": {
       "roles": ["employee", "billing"],
       "location": {
+        "country": "US",
+        "ip": "8.8.8.8"
+      }
+    },
+    "arjen": {
+      "roles": ["employee", "billing"],
+      "location": {
         "country": "NL",
         "ip": "8.8.8.8"
       }
     },
-     "sunil": {
+    "sunil": {
       "roles": ["guest"],
       "location": {
         "country": "US",
