@@ -1,2 +1,3 @@
 utils.rego
 rbac.rego
+rebac.rego
